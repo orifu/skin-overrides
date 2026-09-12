@@ -14,7 +14,7 @@ body:
       label: minecraft version
       description: which version of minecraft are you using?
       options:
-        - 26.3 snapshots
+        - 26.3 (Wilderness Bound)
         - 26.2 (Chaos Cubed)
         - 26.1 (Tiny Takeover)
         - 1.21.11 (Mounts of Mayhem)
@@ -36,6 +36,7 @@ body:
       label: mod version
       description: which version of skin overrides are you using?
       options:
+        - 2.7.1
         - 2.7.0
         - 2.6.2
         - 2.6.1
